@@ -1,0 +1,955 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+  background-image: url(../2137_barista_cafe/images/slides/sincere-laugh-showing-picture-smartphone-casual-meeting-with-best-friends-restaurant-terrace.jpg);
+  background-size: 100% 100%;
+  height: 100vh;
+  margin-bottom: -82vh;
+}
+
+.main-page .header .bg .navbar .logo {
+  height: 14vh;
+}
+
+.main-page .header .bg .navbar .logo .im img {
+  height: 10vh;
+  width: 10vh;
+  background-color: white;
+  position: relative;
+  top: 2vh;
+  left: -18vh;
+}
+
+.main-page .header .bg .navbar .logo .h12 {
+  position: relative;
+  left: -7vh;
+  bottom: 6vh;
+}
+
+.main-page .header .bg .navbar {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.395), rgba(0, 0, 0, 0.395));
+  color: white;
+  border-radius: 20px;
+  display: flex;
+  justify-content: space-around;
+  width: 93%;
+  position: relative;
+  top: 5vh;
+  left: 7vh;
+}
+
+.main-page .header .bg .navbar .list ul li {
+  display: inline-block;
+  font-size: 3vh;
+  padding: 10px 10px 10px 10px;
+  position: relative;
+  top: 3.5vh;
+  right: -15vh;
+}
+
+.main-page .header .bg .navbar .list ul li:hover {
+  color: blue;
+  cursor: pointer;
+}
+
+.main-page .header .bg .navbar .list ul li a {
+  text-decoration: none;
+  color: white;
+}
+
+.main-page .header .bg .navbar .list ul .cl {
+  padding: 10px 20px 10px 15px;
+  border: 1px solid white;
+  border-radius: 20px;
+  position: relative;
+  left: 15vh;
+}
+
+span {
+  content: "\2197";
+  position: relative;
+  left: 1vh;
+}
+
+.home .shape {
+  height: 288px;
+  width: 230px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.395), rgba(0, 0, 0, 0.395));
+  transform: rotate(45deg);
+  border-radius: 6px;
+  position: relative;
+  left: 88vh;
+  top: 22vh;
+}
+
+.home .text {
+  justify-content: space-around;
+  display: block;
+  text-align: center;
+  line-height: 8vh;
+  position: relative;
+  top: -20vh;
+}
+
+.home .text h3 {
+  font-size: 3vh;
+  color: brown;
+}
+
+.home .text h1 {
+  font-size: 10vh;
+  color: white;
+}
+
+.home .text h2 {
+  font-size: 3.5vh;
+  color: whitesmoke;
+}
+
+.home .text .b1,
+.b2 {
+  display: inline;
+  padding-right: 30px;
+}
+
+.home .text .b1 {
+  color: white;
+}
+
+.home .text .b2 {
+  background-color: chocolate;
+  color: white;
+  padding: 10px 15px 10px 15px;
+  border-radius: 10px;
+}
+
+.main-page-1 {
+  background-color: #4d3921;
+  position: relative;
+  margin-top: 6vh;
+}
+
+.main-page-1 .left video {
+  position: relative;
+  top: 17vh;
+  left: 30vh;
+  height: 80vh;
+  border-radius: 20px;
+}
+
+.main-page-1 .left .hh {
+  color: white;
+  position: relative;
+  left: -50vh;
+  bottom: -2vh;
+}
+
+.main-page-1 .right {
+  position: relative;
+  line-height: 28px;
+}
+
+.main-page-1 .right .aa {
+  position: relative;
+  left: 110vh;
+  bottom: 55vh;
+  font-size: 20px;
+  width: 40%;
+  text-align: justify;
+}
+
+.main-page-1 .right .ww {
+  font-size: 15px;
+}
+
+.main-page-1 .right .we {
+  color: white;
+  font-size: 40px;
+  line-height: 40px;
+}
+
+.main-page-1 .right .wr {
+  padding-bottom: 10px;
+}
+
+.main-page-1 .right .t {
+  color: #d4bea2;
+}
+
+.main-page-1 .right .wy {
+  text-decoration: none;
+  color: white;
+  border: 1px solid white;
+  padding: 10px 20px 10px 20px;
+  border-radius: 30px;
+  position: relative;
+  bottom: 52vh;
+  left: 110vh;
+}
+
+.cards {
+  background-color: #b68751;
+  width: 100%;
+  display: inline-block;
+  padding: 10px;
+}
+
+.cards h4,
+h2 {
+  text-align: center;
+  color: white;
+}
+
+.cards h4 {
+  font-style: italic;
+  padding-top: 20px;
+}
+
+.cards h2 {
+  font-size: 30px;
+  padding-bottom: 20px;
+}
+
+.cards ._cards {
+  padding-left: 3vh;
+  display: flex;
+  cursor: pointer;
+}
+
+.cards ._cards .cc :hover {
+  border-radius: 38px;
+}
+
+.cards ._cards .cc img {
+  height: auto;
+  width: 310px;
+  border-radius: 20px;
+}
+
+.cards .cc {
+  padding-right: 15px;
+}
+
+.cards ._cards .cc h6 {
+  color: white;
+  line-height: 30px;
+  font-size: 14px;
+  position: relative;
+  bottom: 80px;
+  left: 14px;
+}
+
+.cards ._cards h6 .im {
+  height: 30px;
+  width: 50px;
+  position: relative;
+  left: 5px;
+  top: 10px;
+}
+
+
+/* ---------- القسائم الشراء ---------- */
+.Purchase_voucher {
+  background-image: url(../2137_barista_cafe/images/happy-waitress-giving-coffee-customers-while-serving-them-coffee-shop.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 119vh;
+  display: flex;
+  padding-top: 25vh;
+  padding-left: 30vh;
+}
+
+.Purchase_voucher .left-l,
+.right-r {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.600), rgba(0, 0, 0, 0.700));
+  color: white;
+  margin-top: -10vh;
+  margin-left: 8vh;
+  border: 1px solid white;
+  width: 50%;
+  height: 90vh;
+  padding: 50px 40px 50px 40px;
+  border-radius: 20px;
+  line-height: 25px;
+  border: none;
+}
+
+.Purchase_voucher .left-l {
+  margin-left: -19vh;
+}
+
+.Purchase_voucher .h1,
+.h2 {
+  text-align: center;
+  color: white
+}
+
+.Purchase_voucher .h2 {
+  padding-bottom: 40px;
+}
+
+.Purchase_voucher .h1 {
+  font-size: 15px;
+  font-style: italic;
+}
+
+.Purchase_voucher .h2 {
+  font-size: 32px;
+  font-style: bold;
+}
+
+.Purchase_voucher .left-l .meals .meal .desc .price {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Purchase_voucher .left-l .meals .meal .desc {
+  line-height: 40px;
+}
+
+.Purchase_voucher .right-r .meals .meal .desc .price {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Purchase_voucher .right-r .meals .meal .desc .price {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Purchase_voucher .right-r .meals .meal .desc {
+  line-height: 40px;
+}
+
+/* الصورة */
+.Purchase_voucher .left-l .meals .meal .desc .price h3 img {
+  height: 4vh;
+  width: 15vh;
+  position: relative;
+  top: 1vh;
+}
+
+.Purchase_voucher .right-r .meals .meal .desc .price h3 img {
+  height: 4vh;
+  width: 15vh;
+  position: relative;
+  top: 1vh;
+  left: 1vh;
+}
+
+/* الكلام تحت الخط */
+.Purchase_voucher .left-l .meals .meal .desc .dis {
+  font-size: 15px;
+  color: rgb(92, 90, 83);
+}
+
+.Purchase_voucher .right-r .meals .meal .desc .dis {
+  font-size: 15px;
+  color: rgb(92, 90, 83);
+}
+
+/* المسافات بين الارقام */
+.Purchase_voucher .left-l .meals .meal .desc .price h3 s {
+  position: relative;
+  left: 17vh;
+}
+
+.Purchase_voucher .right-r .meals .meal .desc .price .pri .dis {
+  font-size: 20px;
+  color: white;
+  position: relative;
+  left: 24vh;
+}
+
+/* تلوين الاسعار */
+.Purchase_voucher .left-l .meals .meal .desc .price .pri {
+  color: rgb(228, 161, 38);
+}
+
+.Purchase_voucher .right-r .meals .meal .desc .price .pri {
+  color: rgb(228, 161, 38);
+}
+
+.Purchase_voucher .right-r .meals .meal .desc .price h3 s {
+  color: rgb(228, 161, 38);
+}
+
+/* *************************************************************** */
+._class4 {
+  background-color: #7c5b52;
+  height: 1450px;
+}
+
+._class4 .h1 {
+  font-size: 15px;
+  font-style: italic;
+  padding-top: 20px;
+}
+
+._class4 .h2 {
+  font-size: 35px;
+  padding-bottom: 20px;
+}
+
+._class4 .card-s .cardd .img-1 {
+  height: 188px;
+  width: 100%;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+}
+
+._class4 .card-s .cardd .img-2 {
+  height: 15vh;
+  width: 16vh;
+  border-radius: 50%;
+}
+
+._class4 .card-s .cardd .top {
+  color: white;
+  display: flex;
+  position: relative;
+  bottom: 23vh;
+  left: 10px;
+}
+
+/* الشخص رقم 1 */
+._class4 .card-s .cardd .top .h11 {
+  position: relative;
+  top: 5vh;
+  left: 2vh;
+}
+
+._class4 .card-s .cardd .top .h12 {
+  position: relative;
+  top: 9vh;
+  right: 8vh;
+}
+
+/* ************************************** */
+/* الشخص رقم 2 */
+._class4 .card-s .cardd .top .h13 {
+  position: relative;
+  top: 3vh;
+  left: 1vh;
+}
+
+._class4 .card-s .cardd .top .h14 {
+  position: relative;
+  top: 7vh;
+  right: 5vh;
+}
+
+/* *************************************** */
+/* الشخص رقم 3 */
+._class4 .card-s .cardd .top .h15 {
+  position: relative;
+  top: 3vh;
+  left: 1vh;
+}
+
+._class4 .card-s .cardd .top .h16 {
+  position: relative;
+  top: 7vh;
+  right: 7vh;
+}
+
+/* *************************************** */
+/* *************************************** */
+._class4 .card-s .cardd .center {
+  height: 32.5vh;
+  width: 100%;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  background-color: #b68751;
+  color: white;
+  text-align: justify;
+  position: relative;
+  bottom: 16vh;
+  left: 0vh;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+._class4 .card-s .cardd hr {
+  position: relative;
+  bottom: 24vh;
+}
+
+._class4 .card-s .cardd .rat {
+  color: white;
+  position: relative;
+  left: 2vh;
+  bottom: 22vh;
+}
+
+._class4 .card-s {
+  display: flex;
+}
+
+._class4 .card-s .c-1::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 398px;
+  width: 0;
+  height: 0;
+  background-color: white;
+  margin-top: -15px;
+  border-style: solid;
+  border-width: 15px;
+  border-color: #7c5b52 #7c5b52 #7c5b52 #ffffff;
+}
+
+._class4 .card-s .c-2::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: -35px;
+  width: 0;
+  height: 0;
+  background-color: white;
+  margin-top: -15px;
+  border-style: solid;
+  border-width: 15px;
+  border-color: #7c5b52 #ffffff #7c5b52 #7c5b52;
+}
+
+._class4 .card-s .c-3::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 398px;
+  width: 0;
+  height: 0;
+  background-color: white;
+  margin-top: -15px;
+  border-style: solid;
+  border-width: 15px;
+  border-color: #7c5b52 #7c5b52 #7c5b52 #ffffff;
+}
+
+/* ********************* */
+
+/* شكل المثلث */
+._class4 .line .card-s .cardd .fa-play {
+  position: relative;
+  bottom: 100vh;
+}
+
+._class4 .card-s .cardd {
+  margin-left: 10px;
+  height: 410px;
+  width: 30%;
+  border: 5px solid white;
+  border-radius: 20px;
+  line-height: 25px;
+}
+
+/* تحريك الكروت الثلاثة */
+/* كارت 1 */
+._class4 .card-s .c-1 {
+  position: relative;
+  top: 5vh;
+  left: 33vh;
+}
+
+/* ******************** */
+
+/* كارت 2 */
+._class4 .card-s .c-2 {
+  position: relative;
+  top: 70vh;
+  left: 44.5vh;
+}
+
+/* ******************** */
+
+/* كارت 3 */
+._class4 .card-s .c-3 {
+  position: relative;
+  top: 135vh;
+  left: -608px;
+}
+
+/* ********** النجوم ********** */
+._class4 .card-s .footer img {
+  position: relative;
+  left: 37vh;
+  bottom: 27vh;
+}
+
+/* الخط في المنتصف */
+._class4 .line {
+  height: 20px;
+  background: white;
+  rotate: 90deg;
+  text-align: center;
+  position: relative;
+  top: 100vh;
+  border-radius: 20px;
+}
+
+/* ***************************** */
+/* footer-s */
+.footer-s {
+  background-image: url(../2137_barista_cafe/images/young-female-barista-wear-face-mask-serving-take-away-hot-coffee-paper-cup-consumer-cafe.jpg);
+  background-size: 100% 100%;
+  height: 120vh;
+  color: white;
+}
+
+.footer-s .contact {
+  padding-top: 60px;
+  padding-left: 15vh;
+  line-height: 35px;
+}
+
+.footer-s .contact h3 {
+  font-size: 20px;
+}
+
+.footer-s .contact .footerd .w {
+  margin-bottom: 10vh;
+  font-size: 45px;
+}
+
+.footer-s .contact .form .f1 {
+  display: block;
+  position: relative;
+  bottom: 5vh;
+}
+
+.footer-s .form {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+}
+
+.footer-s .form input,
+textarea {
+  background: none;
+  border-radius: 20px;
+  font-size: 30px;
+  line-height: 35px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.395), rgba(0, 0, 0, 0.395));
+}
+
+.footer-s .form button {
+  width: 90%;
+  padding: 10px 20px 10px 20px;
+  color: white;
+  background-color: orange;
+  border: none;
+  border-radius: 20px;
+  font-size: 25px;
+}
+
+.footer-s .form button :hover {
+  box-shadow: 5px 3px 6px red;
+}
+
+.footer-s .contact {
+  position: absolute;
+}
+
+.footer-s .contact .map {
+  position: absolute;
+  top: 40vh;
+  left: 85vh;
+  bottom: 490px;
+}
+
+/* نهاية الصفحة */
+.foter {
+  padding-top: 50px;
+  padding-left: 30px;
+  background-color: #bc6c25;
+  height: 350px;
+  color: white;
+  font-size: 15px;
+  line-height: 50px;
+  display: flex;
+  justify-content: space-around;
+}
+
+/* ************* */
+/* الايقونات */
+.foter .c_1 .icon {
+  font-size: 23px;
+}
+
+/* MediaQuairy */
+@media (max-width: 1067px) {
+/* Navebar */
+  .main-page .header .bg .navbar {
+    width: 98%;
+    margin-left: -27px;
+  }
+/* ********************************* */
+/* ************* Label ************* */
+.home .text {
+  position: relative;
+  top: -30vh;
+  left: 40px;
+}
+/* ********************************* */
+/* ************* Shape ************* */
+  .home .shape {
+    position: relative;
+    left: 79vh;
+    top: 15vh;
+  }
+/* ********************************* */
+/* ******** Logo & Barista ********* */
+  .main-page .header .bg .navbar .logo .im {
+    padding-left: 20px;
+  }
+
+  .main-page .header .bg .navbar .logo .h12 {
+    padding-left: 30px;
+  }
+/* ********************************* */
+/* ************** Shape ************ */
+  
+}
+
+
+
+@media (max-width:800px) {
+  /* حجم الناف بار */
+  .main-page .header .bg .navbar {
+    width: 96%;
+    margin-left: -30px;
+  }
+
+  .main-page .header .bg .navbar .list ul li {
+    font-size: 12px;
+    padding: 2px;
+    position: relative;
+    right: -10vh;
+  }
+  /* ******** Logo & Barista ********* */
+  .main-page .header .bg .navbar .logo .im {
+    padding-left: 50px;
+  }
+  .main-page .header .bg .navbar .logo .h12 {
+    padding-left: 50px;
+  }
+/* ********************************* */
+/* ************ icon Reservation ************** */
+  .main-page .header .bg .navbar .list ul .cl {
+    position: relative;
+    left: 11vh;
+  }
+/* ******************************************** */
+  .main-page .header .bg .navbar .list ul li a:hover {
+    color:orange;
+    transition: 0.6 ease;
+  }
+/* ************* Shape ************* */
+  .home .shape {
+    position: relative;
+    left: 56vh;
+    top: 15vh;
+  }
+/* main-page-1 */
+  .main-page-1 {
+    height: 745px;
+    margin-top: -7px;
+  }
+/* *********** */
+  /* Video & Cafe KL */
+  .main-page-1 .left video {
+    position: relative;
+    left: -5vh;
+    height: 550px;
+    width: 500px;
+  }
+/* الكلام اللي قدام الفيديو */
+  .main-page-1 .left .hh {
+    position: relative;
+    left: -31vh;
+  }
+/* الكلام اللي على اليمين جنب الفيديو */
+  .main-page-1 .right {
+    position: relative;
+    left: -35vh;
+    bottom: 20vh;
+  }
+/* *************** */
+
+  /* Cards */
+  .cards ._cards {
+    display: grid;
+    grid-template-columns: 370px 370px;
+    width: 100%;
+    margin-left: 5%;
+    margin-right: 60px;
+  }
+
+  .cards ._cards .cc {
+    width: 100%;
+  }
+/* **************** */
+/* Purchase_voucher */
+.Purchase_voucher {
+  background-size: 100% 83%;
+  padding: 132px 0px 0px 168px;
+}
+.Purchase_voucher .left-l {
+  position: relative;
+  left: -7vh;
+}
+.Purchase_voucher .left-l , .right-r {
+  width: 65vh;
+  margin-right: -10vh;
+  margin-top: -20vh;
+  font-size: 10px;
+}
+
+/* ****** LEFT ****** */
+.Purchase_voucher .left-l {
+  padding-top: 3vh;
+}
+.Purchase_voucher .left-l .h1 {
+  padding-top: -20vh;
+}
+.Purchase_voucher .left-l .h2 {
+  padding-bottom: 1vh;
+}
+
+/* $16.50 */
+.Purchase_voucher .left-l .meals .meal .desc .price h3 s {
+  position: relative;
+  left: 10vh;
+}
+/* ****************** */
+
+/* ***** RIGHT ****** */
+.Purchase_voucher .right-r {
+  padding-top: 3vh;
+}
+.Purchase_voucher .right-r .h1 {
+  padding-top: -20vh;
+}
+.Purchase_voucher .right-r .h2 {
+  padding-bottom: 0.3vh;
+}
+.Purchase_voucher .right-r .meals .meal .desc .price .pri .dis {
+  position: relative;
+  left: 15vh;
+  font-size: 14px;
+}
+/* ****************** */
+._class4 {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #7c5b52;
+  height: 1450px;
+  margin-top: -21vh;
+}
+._class4 .line {
+  position: relative;
+  top: 115vh;
+  left: -46vh;
+  width: 240vh;
+}
+
+._class4 .card-s .cardd {
+  height: 382px;
+  width: 70%;
+}
+/* الكارت الاول */
+._class4 .card-s .c-1 {
+  font-size: 15px;
+  position: relative;
+  left: 15vh;
+  width: 77%;
+}
+._class4 .card-s .c-1 .footer img {
+  position: relative;
+  left: 20vh;
+  bottom: 28vh;
+}
+._class4 .card-s .c-1::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 258px;
+  width: 0;
+  height: 0;
+  background-color: white;
+  margin-top: -15px;
+  border-style: solid;
+  border-width: 15px;
+  border-color: #7c5b52 #7c5b52 #7c5b52 #ffffff;
+}
+/* *********************** */
+/* الكارت الثاني */
+._class4 .card-s .c-2 {
+  position: relative;
+    top: 75vh;
+    left: 185px;
+    width: 75%;
+}
+._class4 .card-s .c-2 .footer img {
+  position: relative;
+  left: 20vh;
+  bottom: 28vh;
+}
+._class4 .card-s .c-2::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: -35px;
+  width: 0;
+  height: 0;
+  background-color: white;
+  margin-top: -15px;
+  border-style: solid;
+  border-width: 15px;
+  border-color: #7c5b52 #ffffff #7c5b52 #7c5b52;
+}
+/* *********************** */
+/* الكرت الثالث */
+._class4 .card-s .c-3 {
+  position: relative;
+  top: 135vh;
+  left: -80vh;
+  width:77%;
+}
+._class4 .card-s .c-3 .footer img {
+  position: relative;
+  left: 20vh;
+  bottom: 28vh;
+  }
+  ._class4 .card-s .c-3::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 258px;
+    width: 0;
+    height: 0;
+    background-color: white;
+    margin-top: -15px;
+    border-style: solid;
+    border-width: 15px;
+    border-color: #7c5b52 #7c5b52 #7c5b52 #ffffff;
+  }
+
+  .footer-s .contact .map {
+    height: 100;
+    width: -55;
+    display: inline-block;
+    position: relative;
+    top: -67vh;
+    left: 40vh;
+  }
+}
